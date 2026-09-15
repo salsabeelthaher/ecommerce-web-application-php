@@ -11,15 +11,15 @@ The system allows users to browse products, add items to the shopping cart, and 
 ### Overview & Admin Dashboard
 ![Dashboard Preview 1](Screenshot%202026-03-11%20224338.png)
 ![Transaction Analytics](Screenshot%202026-03-11%20225143.png)
-![Dashboard Preview 2](Screenshot%202026-03-11%20224359.png)
+
 
 ### Store Management & Data Visualizations
 ![Dashboard Preview 2](Screenshot%202026-03-11%20224359.png)
 ![Store Data 1](Screenshot%202026-03-11%20224457.png)
-![Store Data 2](Screenshot%202026-03-11%20224926.png)
+
 
 ### Products & Transactions
-
+![Store Data 2](Screenshot%202026-03-11%20224926.png)
 
 ---
 
