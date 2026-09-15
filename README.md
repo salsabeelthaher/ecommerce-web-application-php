@@ -55,16 +55,7 @@ The admin panel allows administrators to:
 
 ---
 
-## Repository Files Included
 
-- `Screenshot 2026-03-11 224338.png` – Admin Dashboard View 1
-- `Screenshot 2026-03-11 224359.png` – Admin Dashboard View 2
-- `Screenshot 2026-03-11 224457.png` – Data Visualization & Tables
-- `Screenshot 2026-03-11 224926.png` – Store Operations & Analytics
-- `Screenshot 2026-03-11 225106.png` – Inventory & Products Management
-- `Screenshot 2026-03-11 225143.png` – Transactions & Order Tracking
-
----
 
 ## Project Purpose
 
